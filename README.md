@@ -9,7 +9,9 @@ To write a python program to find the distance two 2 points
 
 Start the program
 
-### Step 2:Get input from the user
+### Step 2:
+
+Get input from the user
 
 ### Step 3: 
 
