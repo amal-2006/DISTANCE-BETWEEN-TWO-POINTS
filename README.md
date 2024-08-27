@@ -24,8 +24,10 @@ End the program.
 
 ### PROGRAM:
 ```
+
 # Developed by: AMALJOSH MAADHAV J
 # Register no: 212223230012
+
 
 import math
 x_1=4
@@ -34,6 +36,7 @@ y_1=2
 y_2=6
 d=math.sqrt(((x_2-x_1)*(x_2-x_1))+((y_2-y_1)*(y_2-y_1) ))
 print(format(d,"0.2f"))
+
 ```
   
 
